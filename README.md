@@ -5,7 +5,7 @@ distribute plenty of shattered glass objects evenly and randomly around the mesh
 according to the user's preference.
 
 <p align="center" width="75%">
-  <img src="./images/demo_1.jpg" width=400>   <img src="./images/demo_2.jpg" width="400">
+  <img src="./images/demo_3.jpg" width=400>   <img src="./images/demo_2.jpg" width="400">
 </p>
 
 demo video: https://youtu.be/aYUXMY5IG1c
